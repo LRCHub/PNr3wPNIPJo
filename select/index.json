@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "mayday,mayday",
+  "base_artist": "角巻わため",
+  "createdAt": "2026-02-12T21:01:06.900959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mayday Mayday",
+      "artist": "We Butter the Bread With Butter",
+      "has_synced": false,
+      "path": "select/01_Mayday_Mayday_We_Butter_the_Bread_With_Butter.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mayday Mayday",
+      "artist": "Matthias Reim",
+      "has_synced": false,
+      "path": "select/02_Mayday_Mayday_Matthias_Reim.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "\"Mayday! Mayday!\" Cried the Captain",
+      "artist": "me and him call it us",
+      "has_synced": false,
+      "path": "select/03_Mayday!_Mayday!__Cried_the_Captain_me_and_him_call_it_us.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mayday Mayday",
+      "artist": "We Butter The Bread With Butter",
+      "has_synced": true,
+      "path": "select/04_Mayday_Mayday_We_Butter_The_Bread_With_Butter.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "너에게 닿기를 간절히 외치다 Mayday! Mayday!",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/05_너에게_닿기를_간절히_외치다_Mayday!_Mayday!_BoA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mayday! Mayday! (너에게 닿기를 간절히 외치다)",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/06_Mayday!_Mayday!_(너에게_닿기를_간절히_외치다)_BoA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mayday! Mayday!",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/07_Mayday!_Mayday!_BoA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mayday Mayday",
+      "artist": "John Watts",
+      "has_synced": false,
+      "path": "select/08_Mayday_Mayday_John_Watts.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mayday Mayday",
+      "artist": "Popeda",
+      "has_synced": true,
+      "path": "select/09_Mayday_Mayday_Popeda.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "mayday、mayday",
+      "artist": "角巻わため",
+      "has_synced": true,
+      "path": "select/10_mayday、mayday_角巻わため.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "mayday,mayday feat. Mori Calliope",
+      "artist": "角巻わため",
+      "has_synced": true,
+      "path": "select/11_mayday,mayday_feat._Mori_Calliope_角巻わため.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mayday Mayday",
+      "artist": "Bonez MC, Gzuz, Maxwell & LX",
+      "has_synced": true,
+      "path": "select/12_Mayday_Mayday_Bonez_MC,_Gzuz,_Maxwell_&_LX.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MAYDAY MAYDAY",
+      "artist": "ATLAS",
+      "has_synced": true,
+      "path": "select/13_MAYDAY_MAYDAY_ATLAS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "mayday,mayday",
+      "artist": "角巻わため",
+      "has_synced": false,
+      "path": "select/pl_01_mayday,mayday_角巻わため.txt"
+    }
+  ]
+}
